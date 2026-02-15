@@ -1,16 +1,31 @@
-## Hi there 👋
+<h1 align="center">K Nagnedra Pai</h1>
+<p align="center"> Artificial Intelligence and Machine Learningr</p>
 
-<!--
-**Cyberknp/Cyberknp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • SQL • Machine learning • NLP • IOT • Godot • Embedded C • Project management • Docker
+
+---
+
+### Focus
+
+- Game development
+- System design
+- Model Performance optimization
+- Open source
+
+---
+
+### Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME"/>
+</p>
+
+---
+
+### Current Work
+
+Building tools, learning deeply, and improving continuously.
