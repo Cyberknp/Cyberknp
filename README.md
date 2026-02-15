@@ -28,9 +28,9 @@ Building scalable and intelligent systems
 ### Languages
 
 <p> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql"/> <img src="https://img.shields.io/badge/Embedded%20C-000000?style=for-the-badge&logo=c"/> </p>
-##AI / ML
+## AI / ML
 <p> <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/> </p>
-##Backend / Systems
+## Backend / Systems
 <p> <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/> </p>
 ##Other Technologies
 <p> <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine"/> <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Project%20Management-000000?style=for-the-badge"/> </p>
