@@ -1,5 +1,5 @@
 <h1 align="center">K Nagendra Pai</h1>
-<h3 align="center">AI / ML Engineer • Systems Builder • Game Developer</h3>
+<h3 align="center">AI Engineer • Game Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cyberknp&label=Profile%20Views&color=000000&style=for-the-badge"/>
@@ -15,7 +15,7 @@ K Nagendra Pai
 
 
 $ role
-Artificial Intelligence and Machine Learning Engineer
+Artificial Intelligence Engineer
 
 $ specialization
 AI Systems • LLM Agents • Backend • Embedded Systems
@@ -26,14 +26,34 @@ Building scalable and intelligent systems
 ## Tech Stack
 
 ### Languages
+<p>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Embedded%20C-000000?style=for-the-badge&logo=c"/>
+</p>
 
-<p> <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/> <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql"/> <img src="https://img.shields.io/badge/Embedded%20C-000000?style=for-the-badge&logo=c"/> </p>
 ## AI / ML
-<p> <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NLP-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge"/>
+</p>
+
 ## Backend / Systems
-<p> <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi"/> <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/> <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/> </p>
-##Other Technologies
-<p> <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine"/> <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Project%20Management-000000?style=for-the-badge"/> </p>
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+</p>
+
+## Other Technologies
+<p>
+  <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine"/>
+  <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project%20Management-000000?style=for-the-badge"/>
+</p>
+
 
 
 ## Current Focus
@@ -49,10 +69,22 @@ Building scalable and intelligent systems
 
 
 
-GitHub Analytics
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Cyberknp&theme=black-ice&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Cyberknp&show_icons=true&theme=vision-friendly-dark&hide_border=true"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberknp&layout=compact&theme=vision-friendly-dark&hide_border=true"/> </p>
+## GitHub Analytics
 
-Current Activity
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cyberknp&theme=black-ice&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cyberknp&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberknp&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"/>
+</p>
+
+
+## Current Activity
 ```
 [+] Building AI tools
 [+] Designing LLM agents
@@ -61,11 +93,14 @@ Current Activity
 [+] Optimizing performance
 ```
 
-Philosophy
+## Philosophy
 ```
 First make it work.
 Then make it efficient.
 Then make it scalable.
 ```
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Cyberknp/Cyberknp/output/github-contribution-grid-snake.svg"/> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Cyberknp/Cyberknp/output/github-contribution-grid-snake.svg"/>
+</p>
+
