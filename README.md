@@ -71,17 +71,30 @@ Building scalable and intelligent systems
 
 ## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Cyberknp&theme=black-ice&hide_border=true"/>
+<table>
+<tr>
+
+<td>
+
+<p>
+  <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine"/>
+  <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Project%20Management-000000?style=for-the-badge"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cyberknp&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-</p>
+</td>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberknp&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"/>
-</p>
+<td>
+
+<img src="assets/cyber.jpeg" width="250"/>
+
+</td>
+
+</tr>
+</table>
+
+
 
 
 ## Current Activity
