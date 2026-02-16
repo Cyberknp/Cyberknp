@@ -1,5 +1,5 @@
 <h1 align="center">K Nagendra Pai</h1>
-<h3 align="center">AI & ML Engineer • Game Developer</h3>
+<h3 align="center">AI Engineer • AI & ML Engineer • Game Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Cyberknp&label=Profile%20Views&color=000000&style=for-the-badge"/>
