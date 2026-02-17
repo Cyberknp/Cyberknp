@@ -71,8 +71,6 @@ Building scalable and intelligent systems
 
 ## GitHub Analytics
 
-## GitHub Analytics
-
 <table width="100%">
 <tr>
 
