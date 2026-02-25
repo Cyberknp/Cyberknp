@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.vercel.app/?size=40&duration=3500&pause=700&color=00FF00&center=true&vCenter=true&width=900&lines=K+Nagendra+Pai;AI+Engineer+•+AI+%26+ML+Engineer+•+Game+Developer" />
+  <img src="https://readme-typing-svg.vercel.app/?size=40&duration=3500&pause=700&color=00FF00&center=true&vCenter=true&width=1000&lines=K+Nagendra+Pai;AI+Engineer+•+AI+%26+ML+Engineer+•+Game+Developer" style="max-width:100%;" />
 </p>
 
 <p align="center">
