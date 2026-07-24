@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.vercel.app/?size=25&duration=3500&pause=700&color=00FF00&center=true&vCenter=true&width=600&lines=AI+Engineer;AI+%26+ML+Engineer;Game+Developer" 
+    src="https://readme-typing-svg.vercel.app/?size=25&duration=3500&pause=700&color=00FF00&center=true&vCenter=true&width=600&lines=AI+Engineer;AI+%26+Engineer;Game+Developer" 
     style="max-width:100%; height:auto;"
   />
 </p>
