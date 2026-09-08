@@ -18,7 +18,6 @@
 
 ---
 
-
 ```bash
 $ whoami
 K Nagendra Pai
@@ -34,9 +33,11 @@ Agentic AI • Multi-Agent Orchestration • Full-Stack • Machine Learning
 $ current_status
 Building scalable and intelligent systems
 ```
+
 ## Tech Stack
 
 ### 🤖 Agentic AI & LLM Systems
+
 <p>
   <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -48,6 +49,7 @@ Building scalable and intelligent systems
 </p>
 
 ### 🧠 Machine Learning & Deep Learning
+
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
@@ -57,6 +59,7 @@ Building scalable and intelligent systems
 </p>
 
 ### 💻 Full-Stack & Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -67,6 +70,7 @@ Building scalable and intelligent systems
 </p>
 
 ### 🗄️ Databases & ORM
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
@@ -75,6 +79,7 @@ Building scalable and intelligent systems
 </p>
 
 ### ⚙️ DevOps, Runtimes & Analytics
+
 <p>
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
   <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
@@ -84,13 +89,12 @@ Building scalable and intelligent systems
 </p>
 
 ### 🎮 Other Technologies
+
 <p>
   <img src="https://img.shields.io/badge/Godot-000000?style=for-the-badge&logo=godot-engine&logoColor=478CBF"/>
   <img src="https://img.shields.io/badge/IoT-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Project%20Management-000000?style=for-the-badge"/>
 </p>
-
-
 
 ## Current Focus
 
@@ -100,10 +104,6 @@ Building scalable and intelligent systems
 - Edge LLM integration and computer vision pipelines (Ollama, OpenCV)
 - Exploring game development using Godot
 - Working with embedded systems and IoT
-
-
-
-
 
 ## GitHub Analytics
 
@@ -129,9 +129,8 @@ Building scalable and intelligent systems
 </tr>
 </table>
 
-
-
 ## Current Activity
+
 ```
 [+] Engineering multi-agent pipelines (LangGraph & MCP)
 [+] Developing full-stack SaaS with FastAPI & React
@@ -141,6 +140,7 @@ Building scalable and intelligent systems
 ```
 
 ## Philosophy
+
 ```
 First make it work.
 Then make it efficient.
@@ -150,4 +150,3 @@ Then make it scalable.
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cyberknp/Cyberknp/output/github-contribution-grid-snake.svg"/>
 </p>
-
