@@ -16,23 +16,31 @@
   <img src="https://komarev.com/ghpvc/?username=Cyberknp&label=Profile%20Views&color=000000&style=for-the-badge"/>
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/nagendra-pai-088a5233b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+  <a href="mailto:Nagendrapai2109@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+  <a href="https://github.com/Cyberknp">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ```bash
-$ whoami
-K Nagendra Pai
+╭─ cyberknp@mainframe ~
+╰─$ whoami
+   K Nagendra Pai
 
-
-
-$ role
-AI & Agentic Systems Engineer
-
-$ specialization
-Agentic AI • Multi-Agent Orchestration • Full-Stack • Machine Learning
-
-$ current_status
-Building scalable and intelligent systems
+   Role:           AI & Agentic Systems Engineer
+   Specialization: Agentic AI • Multi-Agent Orchestration • Full-Stack • Machine Learning
+   Current Status: Building scalable, observable & deterministic agent systems
 ```
+
+> 📄 **Published Research:** _"Dental Disease Classification using MobileNetV3 and Deep Learning"_, published in **IEEE Xplore**.
 
 ## Tech Stack
 
@@ -75,7 +83,7 @@ Building scalable and intelligent systems
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
   <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=databricks&logoColor=red"/>
+  <img src="https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=sqlalchemy&logoColor=D71F00"/>
 </p>
 
 ### ⚙️ DevOps, Runtimes & Analytics
@@ -96,7 +104,17 @@ Building scalable and intelligent systems
   <img src="https://img.shields.io/badge/Project%20Management-000000?style=for-the-badge"/>
 </p>
 
-## Current Focus
+## 🚀 Featured Projects & Engineering Systems
+
+| Project                       | Domain           | Tech Stack                             | Key Highlights                                                        |
+| :---------------------------- | :--------------- | :------------------------------------- | :-------------------------------------------------------------------- |
+| **Multi-Agent Orchestration** | Agentic AI       | `LangGraph` `MCP` `Langfuse` `Docker`  | Multi-agent pipelines with dynamic tool-binding & sandboxed execution |
+| **B2B Customer Portal**       | Full-Stack SaaS  | `FastAPI` `React` `SQLAlchemy` `MySQL` | 10-module SaaS platform with RBAC & row-level data isolation          |
+| **Manomithra**                | Edge AI & CV     | `Ollama` `Computer Vision` `Python`    | Local LLM-driven wellness platform for social isolation               |
+| **Facial Emotion Classifier** | Deep Learning    | `TensorFlow` `CNN` `Python`            | CNN-based facial emotion recognition for behavioral analytics         |
+| **Ayusanjeevini**             | IoT & Healthcare | `Flutter` `IoT` `Cloud` `ML`           | Digital health twin for early detection of non-communicable diseases  |
+
+## 🎯 Current Focus
 
 - Architecting production multi-agent systems with LangGraph, LangChain & MCP
 - Full-stack GenAI SaaS development using FastAPI, React & SQLAlchemy
@@ -105,18 +123,19 @@ Building scalable and intelligent systems
 - Exploring game development using Godot
 - Working with embedded systems and IoT
 
-## GitHub Analytics
+## 📊 GitHub Analytics
 
 <table width="100%">
 <tr>
 
-<td width="65%">
+<td width="65%" align="center" valign="middle">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Cyberknp&theme=black-ice&hide_border=true"/><br><br>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Cyberknp&theme=black-ice&hide_border=true" width="100%"/>
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=Cyberknp&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/><br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberknp&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"/> -->
+<!-- Alternative stats cards you can swap in instead of the streak stats above:
+<img src="https://github-readme-stats.vercel.app/api?username=Cyberknp&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cyberknp&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=8"/>
+-->
 
 </td>
 
@@ -129,23 +148,29 @@ Building scalable and intelligent systems
 </tr>
 </table>
 
-## Current Activity
+## ⚡ Current Activity
 
 ```
+
 [+] Engineering multi-agent pipelines (LangGraph & MCP)
 [+] Developing full-stack SaaS with FastAPI & React
 [+] Implementing agent observability with Langfuse
 [+] Exploring game development in Godot
 [+] Optimizing deterministic LLM execution & RAG
-```
-
-## Philosophy
 
 ```
+
+## 💡 Philosophy
+
+```
+
 First make it work.
 Then make it efficient.
 Then make it scalable.
+
 ```
+
+## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Cyberknp/Cyberknp/output/github-contribution-grid-snake.svg"/>
